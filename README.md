@@ -2,16 +2,15 @@
 
 ### An Elderly Care and Safety App
 
-The Age Guardian comprises two core applications within its suite: the User App and the Guardian App. These applications work in tandem to provide a holistic and technologically advanced solution for the well-being and safety of elderly individuals.
+Within the Age Guardian suite, there are two primary applications: the User App and the Guardian App. These applications work together to deliver a comprehensive and technologically advanced solution, ensuring the overall well-being and safety of elderly individuals.
 
-1. The User App serves as the primary interface for elderly individuals, offering a suite of essential functionalities
-2. The Guardian App is designed to empower caregivers and guardians with real-time information about the elderly user's well-being
+1. The User App provides a range of crucial features and acts as the main interface for senior citizens.
+2. The purpose of the Guardian App is to provide guardians and caregivers with up-to-date information on the wellbeing of senior users.
 
-The "Age Guardian" project is a testament to the successful integration of advanced sensor technologies, cloud-based services, and data analytics. 
-By leveraging camera data for heart rate monitoring, accelerometer data for respiratory rate calculation, and gyrometer sensors for fall detection, achieved precise and real-time health monitoring. 
-The incorporation of a fuzzy logic algorithm for risk assessment, based on weather and health data, enhances user decision-making.
-The utilization of AWS SQS for asynchronous communication and Amazon DynamoDB for data storage showcases the scalability and reliability of cloud services in a real-world application. 
-
+The "Age Guardian" project serves as an example of how well data analytics, cloud-based services, and cutting-edge sensor technology can be combined. 
+Accurate real-time health monitoring was achieved utilizing accelerometer data for respiratory rate computation, camera data for heart rate monitoring, and gyrometer sensors for fall detection. 
+User decision-making is improved by the inclusion of a fuzzy logic system for risk assessment that is based on meteorological and health data.
+The utilization of Amazon DynamoDB for data storage and AWS SQS for asynchronous communication demonstrates the scalability and dependability of cloud services in a practical setting. 
 
 ### REFERENCES
 1. Android programming techniques for improving performance - https://ieeexplore.ieee.org/abstract/document/6163105 
